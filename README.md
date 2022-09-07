@@ -10,6 +10,13 @@ change.md
 ## 目录
 
 ## 编程
+### API规范
+* [Microsoft api-guidelines](https://github.com/microsoft/api-guidelines)
+  * 翻译版 https://www.mephisto.site/posts/Microsoft-REST-API/
+  * https://www.biaodianfu.com/microsoft-rest-api-guidelines.html
+  * https://mp.weixin.qq.com/s/Xd_SgS_PYU6zjxtv0h8HWQ
+* [Google API 设计指南](https://cloud.google.com/apis/design)
+* [Web API 清单](https://mathieu.fenniak.net/the-api-checklist/)
 
 ### AI自动生成代码工具
 * [copilot](https://github.com/features/copilot)
@@ -39,7 +46,11 @@ change.md
 ## 有用的网站、文章
 * [Uber Go 语言编码规范中文版. The Uber Go Style Guide](https://github.com/xxjwxc/uber_go_guide_cn)
 * [project-layout](https://github.com/golang-standards/project-layout)
+* [Go 学习路线图 gopher](https://github.com/yongxinz/gopher)
+* [github-某熊的技术之路系列文章](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)
 
+## 博客&作者
+* [王下邀月熊](https://segmentfault.com/u/wx_chevalier)
 
 ## 杂记
 * 《Go语言高级编程》开源图书
